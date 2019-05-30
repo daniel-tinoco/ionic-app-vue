@@ -1,6 +1,6 @@
 <template>
   <ion-app>
-    <ion-toolbar>
+    <ion-toolbar color="light">
       <ion-buttons slot="secondary">
         <ion-button>
           <router-link :to="{name: 'home'}">Inicio</router-link>
