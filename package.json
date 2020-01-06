@@ -1,5 +1,6 @@
 {
   "name": "ionic-vue-app",
+  "author": "Daniel Tinoco",
   "version": "0.1.0",
   "private": true,
   "scripts": {
